@@ -1,5 +1,14 @@
 {
-  "color": {
-    "brand": "#ffffff"
+  "primitives": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "primitives"
+    ]
   }
 }
