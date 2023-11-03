@@ -1,8 +1,48 @@
 {
   "primitives": {
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
+    "color": {
+      "chili": {
+        "50": {
+          "value": "#FFDDD3",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FFBCA7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FF9474",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FF784F",
+          "type": "color"
+        },
+        "400": {
+          "value": "#FF5724",
+          "type": "color"
+        },
+        "500": {
+          "value": "#DB461F",
+          "type": "color"
+        },
+        "600": {
+          "value": "#B8361A",
+          "type": "color"
+        },
+        "700": {
+          "value": "#962715",
+          "type": "color"
+        },
+        "800": {
+          "value": "#761810",
+          "type": "color"
+        },
+        "900": {
+          "value": "#570808",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
