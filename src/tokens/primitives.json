@@ -532,6 +532,74 @@
             "type": "color"
           }
         }
+      },
+      "semantic": {
+        "success": {
+          "100": {
+            "value": "{color.green.50}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{color.green.200}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{color.green.400}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{color.green.900}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "100": {
+            "value": "{color.green.50}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{color.green.200}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{color.green.400}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{color.green.900}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "100": {
+            "value": "{color.green.50}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{color.green.200}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{color.green.400}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{color.green.700}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{color.green.900}",
+            "type": "color"
+          }
+        }
       }
     }
   },
