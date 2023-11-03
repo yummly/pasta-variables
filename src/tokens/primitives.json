@@ -478,31 +478,57 @@
         },
         "accent": {
           "50": {
-            "value": "{color.chili.50}",
+            "value": "{color.mint.50}",
             "type": "color"
           },
           "100": {
-            "value": "{color.chili.100}",
+            "value": "{color.mint.100}",
             "type": "color"
           },
           "300": {
-            "value": "{color.chili.300}",
+            "value": "{color.mint.300}",
             "type": "color"
           },
           "400": {
-            "value": "{color.chili.400}",
+            "value": "{color.mint.400}",
             "type": "color"
           },
           "500": {
-            "value": "{color.chili.500}",
+            "value": "{color.mint.500}",
             "type": "color"
           },
           "700": {
-            "value": "{color.chili.700}",
+            "value": "{color.mint.700}",
             "type": "color"
           },
           "900": {
-            "value": "{color.chili.900}",
+            "value": "{color.mint.900}",
+            "type": "color"
+          }
+        },
+        "gray": {
+          "100": {
+            "value": "{color.mushroom.50}",
+            "type": "color"
+          },
+          "200": {
+            "value": "{color.mushroom.200}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{color.mushroom.400}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{color.mushroom.800}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{color.mushroom.1100}",
+            "type": "color"
+          },
+          "900": {
+            "value": "{color.mushroom.1300}",
             "type": "color"
           }
         }
