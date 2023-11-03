@@ -1,6 +1,72 @@
 {
   "primitives": {
     "color": {
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "mushroom": {
+        "50": {
+          "value": "#F6F5F2",
+          "type": "color"
+        },
+        "100": {
+          "value": "#ECEBE7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E3E0D9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#D5D0C9",
+          "type": "color"
+        },
+        "400": {
+          "value": "#C6C0B7",
+          "type": "color"
+        },
+        "500": {
+          "value": "#BBB5AA",
+          "type": "color"
+        },
+        "600": {
+          "value": "#ACA69B",
+          "type": "color"
+        },
+        "700": {
+          "value": "#999389",
+          "type": "color"
+        },
+        "800": {
+          "value": "#878178",
+          "type": "color"
+        },
+        "900": {
+          "value": "#746E66",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#605A54",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#4D4841",
+          "type": "color"
+        },
+        "1200": {
+          "value": "#39342E",
+          "type": "color"
+        },
+        "1300": {
+          "value": "#26211C",
+          "type": "color"
+        }
+      },
       "chili": {
         "50": {
           "value": "#FFDDD3",
